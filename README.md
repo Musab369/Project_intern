@@ -37,12 +37,8 @@
 
 ## 📸 Preview
 
-> Add a screenshot of your project here.
+<img width="1343" height="631" alt="image" src="https://github.com/user-attachments/assets/f09d5a0f-e712-4c31-9a8d-7847681ce037" />
 
-```md
-<img width="1343" height="631" alt="image" src="ss.png" />
-
-```
 
 ---
 ## Live Demo
